@@ -9,9 +9,8 @@ Tidak untuk diunggah pada production server, kecuali Anda mengerti risiko yang d
 
 Kunjungi http://localhost:8080 via web browser
 
-username : guest
-
-password : guest123
+- username : guest
+- password : guest123
 
 # Kerentanan dan Bug yang diketahui
 
